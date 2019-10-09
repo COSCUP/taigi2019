@@ -8,12 +8,12 @@
       />
     </div>
     <header class="banner-header">
-      <h3
+      <!-- <h3
         v-if="$route.name === 'CFP'"
         class="flag"
       >
         Call for Paper｜徵稿開催
-      </h3>
+      </h3> -->
       <h1 class="title bold">
         <span>COSCUP 2019 </span>
         <span v-html="parser('來/Laí/台/Taí/講/Gàng/')"/>
