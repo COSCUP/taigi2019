@@ -26,12 +26,12 @@
         <span class="date">Dec. 21, 2019</span>
         <span class="place"><font-awesome-icon :icon="['fas', 'map-marker-alt']"/> 臺中科技大學</span>
       </p>
-      <h2
+      <!-- <h2
         v-if="$route.name === 'CFP'"
         class="button"
       >
         <a v-html="parser('我/Wǒ/要/Yaò/投/Toú/稿/Gaǒ/')"></a>
-      </h2>
+      </h2> -->
     </header>
   </div>
 </template>
