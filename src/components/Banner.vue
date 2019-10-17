@@ -12,7 +12,7 @@
         v-if="$route.name === 'CFP'"
         class="flag"
       >
-        Call of Paper｜徵稿開催
+        Call for Paper｜徵稿開催
       </h3>
       <h1 class="title bold">
         <span>COSCUP 2019 </span>

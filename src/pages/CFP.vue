@@ -27,10 +27,10 @@ export default class CFP extends Vue {
     const metaList = Array.from(document.querySelectorAll('head>meta'));
 
     if (title) {
-      title.innerHTML = 'Call of Paper｜徵稿開催 — COSCUP 2019 來台講';
+      title.innerHTML = 'Call for Paper｜徵稿開催 — COSCUP 2019 來台講';
     }
 
-    metaList[3].setAttribute('content', 'Call of Paper｜徵稿開催 — COSCUP 2019 來台講');
+    metaList[3].setAttribute('content', 'Call for Paper｜徵稿開催 — COSCUP 2019 來台講');
     metaList[5].setAttribute('content', 'https://coscup.org/taigi2019/cfp/');
     metaList[6].setAttribute('content', 'https://coscup.org/taigi2019/img/cfp-og.png');
   }
