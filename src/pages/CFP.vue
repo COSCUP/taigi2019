@@ -14,7 +14,7 @@
       </div>
       <div class="spotlight">
         <h1 class="font-black">Code of Conduct</h1>
-        <p class="paragraph">SITCON 非常歡迎女性、跨性別與多元背景的投稿者。為了讓大家都能愉快的參加 SITCON，我們鼓勵所有參與者閱讀年會的 <a href="https://hackmd.io/@coscup/cococo-zh" class="font-bold" target="_blank" rel="noopener noreferrer">行為守則（Code of Conduct）</a>，共同創造一個友善的環境。</p>
+        <p class="paragraph">COSCUP 非常歡迎女性、跨性別與多元背景的投稿者。為了讓大家都能愉快的參加 COSCUP，我們鼓勵所有參與者閱讀年會的 <a href="https://hackmd.io/@coscup/cococo-zh" class="font-bold" target="_blank" rel="noopener noreferrer">行為守則（Code of Conduct）</a>，共同創造一個友善的環境。</p>
       </div>
     </main>
   </div>
