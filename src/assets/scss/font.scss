@@ -17,8 +17,14 @@ span {
   letter-spacing: 1px;
 }
 
-.bold {
-  font-weight: 500;
+.font {
+  &-bold {
+    font-weight: 500;
+  }
+  
+  &-black {
+    font-weight: 500;
+  }
 }
 
 ruby {

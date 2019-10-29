@@ -93,6 +93,11 @@
       transition: color .3s ease-in-out;
       cursor: pointer;
 
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
       &:hover {
         color: $white;
       }

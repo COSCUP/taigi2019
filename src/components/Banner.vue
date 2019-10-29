@@ -30,7 +30,7 @@
         v-if="$route.name === 'CFP'"
         class="button"
       >
-        <a v-html="parser('我/Wǒ/要/Yaò/投/Toú/稿/Gaǒ/')"></a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfytjV4lqx06KUnLOdP0ejXV0mfrrfWRK68ESiHEUGSLZbGXw/viewform" target="_blank" rel="noopener noreferrer" v-html="parser('我/Wǒ/要/Yaò/投/Toú/稿/Gaǒ/')"></a>
       </h2>
     </header>
   </div>

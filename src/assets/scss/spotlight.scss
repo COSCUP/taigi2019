@@ -4,20 +4,27 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
+    padding: 1rem 0;
   }
 
   width: $spotlight-width;
-  margin: 2rem;
-  padding: 2rem;
+  margin: 1rem 2rem;
+  padding: 1rem 2rem;
   
   h1,
   h2,
   h3,
   p,
-  span {
+  span,
+  a {
     line-height: 1.6;
     letter-spacing: 1.5pt;
     color: $dark;
+  }
+
+  a {
+    color: $tone;
+    letter-spacing: 1px;
   }
 
   @media screen and (max-width: calc(#{$spotlight-width} + 2rem * 2)) {
