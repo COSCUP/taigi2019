@@ -24,7 +24,7 @@
       />
       <p class="content">
         <span class="date">Dec. 21, 2019</span>
-        <span class="place"><font-awesome-icon :icon="['fas', 'map-marker-alt']"/> 臺中科技大學</span>
+        <span class="place"><font-awesome-icon :icon="['fas', 'map-marker-alt']"/><a href="https://tools.wmflabs.org/geohack/geohack.php?params=24_9_8_N_120_41_0_E" target="_blank" rel="noopener noreferrer">　臺中科技大學</a></span>
       </p>
       <h2
         v-if="$route.name === 'CFP'"
