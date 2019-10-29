@@ -4,7 +4,8 @@ module.exports = {
       registry: undefined,
       renderRoutes: [
         '/taigi2019/',
-        '/taigi2019/cfp'
+        '/taigi2019/cfp',
+        '/taigi2019/cfp/'
       ],
       useRenderEvent: true,
       headless: true,
