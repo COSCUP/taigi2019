@@ -18,7 +18,7 @@
         <span>COSCUP 2019 </span>
         <span v-html="parser('來/Laí/台/Taí/講/Gàng/')"/>
       </h1>
-      <h2 
+      <h2
         class="subtitle"
         v-html="parser('來/Laí/用/Yòng/台/Taí/語/Gí/講/Gong/開/Kai/源/Yuán/')"
       />
@@ -30,7 +30,7 @@
         v-if="$route.name === 'CFP'"
         class="button"
       >
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfytjV4lqx06KUnLOdP0ejXV0mfrrfWRK68ESiHEUGSLZbGXw/viewform" target="_blank" rel="noopener noreferrer" v-html="parser('我/Wǒ/要/Yaò/投/Toú/稿/Gaǒ/')"></a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfytjV4lqx06KUnLOdP0ejXV0mfrrfWRK68ESiHEUGSLZbGXw/viewform" target="_blank" rel="noopener noreferrer" v-html="parser('我/Wǒ/欲/beh/投/Toú/稿/Gaǒ/')"></a>
       </h2>
     </header>
   </div>
