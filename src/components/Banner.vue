@@ -16,11 +16,11 @@
       </h3>
       <h1 class="title bold">
         <span>COSCUP 2019 </span>
-        <span v-html="parser('來/Laí/台/Taí/講/Gàng/')"/>
+        <span v-html="parser('來/Lâi/台/Tâi/講/Káng/')"/>
       </h1>
       <h2
         class="subtitle"
-        v-html="parser('來/Laí/用/Yòng/台/Taí/語/Gí/講/Gong/開/Kai/源/Yuán/')"
+        v-html="parser('來/Lâi/用/Iōng/台/Tâi/語/Gí/講/Kóng/開/Khai/源/Goân/')"
       />
       <p class="content">
         <span class="date">Dec. 21, 2019</span>
@@ -30,7 +30,7 @@
         v-if="$route.name === 'CFP'"
         class="button"
       >
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfytjV4lqx06KUnLOdP0ejXV0mfrrfWRK68ESiHEUGSLZbGXw/viewform" target="_blank" rel="noopener noreferrer" v-html="parser('我/Wǒ/欲/beh/投/Toú/稿/Gaǒ/')"></a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfytjV4lqx06KUnLOdP0ejXV0mfrrfWRK68ESiHEUGSLZbGXw/viewform" target="_blank" rel="noopener noreferrer" v-html="parser('我/Góa/欲/Beh/投/Tâu/稿/Kó/')"></a>
       </h2>
     </header>
   </div>
