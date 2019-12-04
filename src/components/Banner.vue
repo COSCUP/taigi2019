@@ -36,7 +36,7 @@
         v-if="$route.name === 'Home'"
         class="button"
       >
-        <a href="https://coscup2019.kktix.cc/events/coscup-taigi2019?utm_source=coscup&utm_medium=web&utm_campaign=taigi2019" target="_blank" rel="noopener noreferrer" v-html="parser('我/Wǒ/欲/Bei/報/Bò/名/Mia/')"></a>
+        <a href="https://coscup2019.kktix.cc/events/coscup-taigi2019?utm_source=coscup&utm_medium=web&utm_campaign=taigi2019" target="_blank" rel="noopener noreferrer" v-html="parser('我/Góa/欲/Beh/報/Pò-/名/miâ/')"></a>
       </h2>
     </header>
   </div>
