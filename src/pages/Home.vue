@@ -59,6 +59,10 @@ export default class Home extends Vue {
     if (title) {
       title.innerHTML = 'COSCUP 2019 來台講';
     }
+
+    metaList[3].setAttribute('content', 'COSCUP 2019 來台講');
+    metaList[5].setAttribute('content', 'https://coscup.org/taigi2019/cfp/');
+    metaList[6].setAttribute('content', 'https://coscup.org/taigi2019/img/og.png');
   }
 }
 </script>
