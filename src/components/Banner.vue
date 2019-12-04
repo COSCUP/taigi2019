@@ -19,6 +19,9 @@
       <p class="content">
         <span class="date">Dec. 21, 2019</span>
         <span class="place"><font-awesome-icon :icon="['fas', 'map-marker-alt']"/><a href="https://tools.wmflabs.org/geohack/geohack.php?params=24_9_8_N_120_41_0_E" target="_blank" rel="noopener noreferrer">　臺中科技大學</a></span>
+	    <span>
+          <a class="button" href="https://coscup2019.kktix.cc/events/coscup-taigi2019?utm_source=coscup&utm_medium=web&utm_campaign=taigi2019">報名</a>
+	    </span>
       </p>
     </header>
   </div>
@@ -76,3 +79,13 @@ export default class Banner extends Vue {
   }
 }
 </script>
+
+<style>
+a.button {
+  display: inline-block;
+  padding: 1em 1.6em;
+  color: white;
+  background: #3b9c60;
+  text-decoration: none;
+}
+</style>
