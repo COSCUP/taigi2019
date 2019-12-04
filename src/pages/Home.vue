@@ -11,7 +11,7 @@
         <h1 class="font-black">開源囡仔，做夥舞！</h1>
         <p>「台語開源研討會」hiah好耍（可能mā會足好聽）ê想法，咱這款ta̍k項攏愛家己舞ê開源人是當然愛做夥來插一kha，這má就來kā好料理款款--ê排上桌！</p>
         <ul class="bullets">
-          <li>看 Wikidata 寫臺文ê Simon Sun 紹介台語ē多種姿態</li>
+          <li>看 Wikidata 寫臺文ê 王文岳紹介台語ē多種姿態</li>
           <li>你咁有用 Line？ 林家煜有一tsiah完全用 kamigo 做出來ê muscle-man line bot</li>
           <li>Tēⁿ Hiàn Kun 做ê開源義手mā看會到，這枝手有目睭</li>
           <li>會曉念bē曉寫？吳家銘ê Chhōe台語來Phahkā你tàu-saⁿ-kāng</li>
