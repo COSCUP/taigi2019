@@ -25,7 +25,6 @@ import Banner from '@/components/Banner.vue';
   }
 })
 export default class CFP extends Vue {
-/*
   public mounted () {
     const title = document.querySelector('head>title');
     const metaList = Array.from(document.querySelectorAll('head>meta'));
@@ -38,6 +37,5 @@ export default class CFP extends Vue {
     metaList[5].setAttribute('content', 'https://coscup.org/taigi2019/cfp/');
     metaList[6].setAttribute('content', 'https://coscup.org/taigi2019/img/cfp-og.png');
   }
-*/
 }
 </script>
