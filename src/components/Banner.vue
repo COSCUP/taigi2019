@@ -94,13 +94,3 @@ export default class Banner extends Vue {
   }
 }
 </script>
-
-<style>
-a.button {
-  display: inline-block;
-  padding: 1em 1.6em;
-  color: white;
-  background: #3b9c60;
-  text-decoration: none;
-}
-</style>
