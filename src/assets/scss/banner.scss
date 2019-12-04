@@ -90,8 +90,11 @@
       position: absolute;
       top: calc(50% + 24pt / 2);
       right: -50pt;
-      transition: color .3s ease-in-out;
+      transition: color .3s ease-in-out, background-color .3s ease-in-out;
       cursor: pointer;
+      padding: .3em 1.2em;
+      background-color: $paper;
+      border-radius: 5px;
 
       a {
         color: inherit;
@@ -100,6 +103,7 @@
 
       &:hover {
         color: $white;
+        background-color: rgba($paper, .5);
       }
       
       ruby {
@@ -111,8 +115,13 @@
         margin-top: 1rem;
         top: auto;
         right: auto;
-        text-align: right;
+        text-align: center;
         color: $white;
+        background-color: $green;
+
+        &:hover {
+          background-color: rgba($green, .5);
+        }
       }
     }
 
