@@ -27,16 +27,16 @@
         <span class="place"><font-awesome-icon :icon="['fas', 'map-marker-alt']"/><a href="https://tools.wmflabs.org/geohack/geohack.php?params=24_9_8_N_120_41_0_E" target="_blank" rel="noopener noreferrer">　臺中科技大學</a></span>
       </p>
       <h2
-        v-if="$route.name === 'CFP'"
-        class="button"
-      >
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfytjV4lqx06KUnLOdP0ejXV0mfrrfWRK68ESiHEUGSLZbGXw/viewform" target="_blank" rel="noopener noreferrer" v-html="parser('我/Wǒ/要/Yaò/投/Toú/稿/Gaǒ/')"></a>
-      </h2>
-      <h2
         v-if="$route.name === 'Home'"
         class="button"
       >
         <a href="https://coscup2019.kktix.cc/events/coscup-taigi2019?utm_source=coscup&utm_medium=web&utm_campaign=taigi2019" target="_blank" rel="noopener noreferrer" v-html="parser('我/Góa/欲/Beh/報/Pò-/名/miâ/')"></a>
+      </h2>
+      <h2
+        v-if="$route.name === 'CFP'"
+        class="button"
+      >
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfytjV4lqx06KUnLOdP0ejXV0mfrrfWRK68ESiHEUGSLZbGXw/viewform" target="_blank" rel="noopener noreferrer" v-html="parser('我/Góa/欲/Beh/投/Toú/稿/Gaǒ/')"></a>
       </h2>
     </header>
   </div>

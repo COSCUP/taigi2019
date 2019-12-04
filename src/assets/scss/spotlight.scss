@@ -7,7 +7,7 @@
     padding: 1rem 0;
   }
 
-  width: $spotlight-width;
+  max-width: $spotlight-width;
   margin: 1rem 2rem;
   padding: 1rem 2rem;
   
@@ -25,10 +25,6 @@
   a {
     color: $tone;
     letter-spacing: 1px;
-  }
-
-  @media screen and (max-width: calc(#{$spotlight-width} + 2rem * 2)) {
-    width: auto;
   }
 
   @media screen and (max-width: 720px) {
