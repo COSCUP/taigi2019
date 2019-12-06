@@ -22,6 +22,10 @@
     color: $dark;
   }
 
+  p {
+    margin-bottom: 1em;
+  }
+
   a {
     color: $tone;
     letter-spacing: 1px;
@@ -29,5 +33,16 @@
 
   @media screen and (max-width: 720px) {
     margin: 0;
+  }
+
+  .hoagi {
+    &:before {
+      content: "華語：";
+      color: rgba($dark, .5);
+    }
+
+    p {
+      color: rgba($dark, .5);
+    }
   }
 }

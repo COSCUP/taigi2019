@@ -1,0 +1,39 @@
+#sessions {
+    font-size: 1em;
+    line-height: 1.5em;
+
+    .session {
+        margin-top: 3em;
+        margin-bottom: 3em;
+
+        p.time {
+            margin-bottom: -.5em;
+            color: $tone;
+        }
+
+        .talk {
+            h1 {
+                color: $tone;
+                font-size: 2em;
+                font-weight: bolder;
+            }
+
+            p {
+                margin-left: 5em;
+            }
+        }
+
+        .speaker{
+            font-size: .8em;
+            margin-top: 2em;
+            margin-left: 5em;
+            padding: 2em;
+            border-radius: 10px;
+            background-color: rgba($paper, .8);
+
+            h2 {
+                margin-bottom: .5em;
+            }
+        }
+    }
+}
