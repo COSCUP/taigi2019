@@ -153,27 +153,5 @@ import Banner from '@/components/Banner.vue';
   }
 })
 export default class Home extends Vue {
-  public mounted () {
-    const title = document.querySelector('head>title');
-    const metaList = Array.from(document.querySelectorAll('head>meta'));
-
-    if (title) {
-      title.innerHTML = 'COSCUP 2019 來台講';
-    }
-
-    metaList[3].setAttribute('content', 'COSCUP 2019 來台講');
-    metaList[5].setAttribute('content', 'https://coscup.org/taigi2019/cfp/');
-    metaList[6].setAttribute('content', 'https://coscup.org/taigi2019/img/og.png');
-  }
 }
 </script>
-
-<style>
-ul.bullets {
-  list-style: disc;
-  padding-left: 1.6em;
-}
-ul.bullets > li {
-  line-height: 1.6em;
-}
-</style>
