@@ -119,7 +119,7 @@
 
         <p>不管你是台語輾轉到會當主持婚宴ê老司機，抑是勉強聽有m̄-koh一句講都bē曉話ê菜鳥仔，攏歡迎來參加這場有夠純koh豐沛ê台語盛會，看咱ê Taiwanese 和 Open Source kap-kap做夥會當變出啥物báng！</p>
         <section class="hoagi">
-        <p>不管你是台語溜到能唱 Rap 的老司機，還是免強聽懂但講不太出來的菜鳥，都歡迎來參加這場台語盛會，看 Taiwanese 跟 Open Source 跟的混搭能激盪出什麼火花！</p>
+        <p>不管你是台語溜到能唱 Rap 的老司機，還是勉強聽懂但講不太出來的菜鳥，都歡迎來參加這場台語盛會，看 Taiwanese 跟 Open Source 跟的混搭能激盪出什麼火花！</p>
         </section>
       </div>
       <div class="spotlight">
