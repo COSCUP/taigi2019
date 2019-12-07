@@ -3,9 +3,9 @@
     <Banner/>
     <main class="spotlight-container">
       <div class="spotlight">
-        <h1 class="font-black">世界第一擺ê台語專場技術研討會，等你做夥來</h1>
+        <h1 class="font-black">世界頭一擺ê台語專場技術研討會，等你做夥來</h1>
         <p>咱全台灣有 70% ê人講台語，結果soah英語ê研討會比台語--ê較chē？你講你會曉講，按呢你kám想過beh按怎用台語解說電腦ê物仔？</p>
-        <p>來來來，這著有一ê機會hōo--lí試看覓：COSCUP「來台講」，世界頭一擺ê台語專場技術研討會！</p>
+        <p>來來來，chia就有一ê機會hō͘你試看māi：COSCUP「來台講」，世界頭一擺ê台語專場技術研討會！</p>
 
         <section class="hoagi">
         <p>全台灣有 70% 的人會講台語，但連純英語的研討會都比以台語為主的研討會多？你說你會講，那你有想過怎麼用台語說明電腦的東西嗎？</p>
@@ -15,7 +15,7 @@
       </div>
       <div class="spotlight" id="programme">
         <h1 class="font-black">開源囡仔，做夥舞！</h1>
-        <p>「台語開源研討會」hiah好耍（可能mā會足好聽）ê想法，咱這款ta̍k項攏愛家己舞ê開源人是當然愛做夥來插一kha，這má就來kā好料理款款--ê排上桌！</p>
+        <p>「台語開源研討會」hiah好耍（可能mā會足好聽）ê想法，咱這款ta̍k項攏愛家己舞ê開源人是當然愛做夥來插一kha，這má就來kā好料理款款--咧排上桌！</p>
         
         <section class="hoagi">
         <p>「台語開源研討會」這麼好玩（可能也會很好聽）的想法，像我們這種老愛自幹的開源人當然都要來參一腳！這就來把好菜端上桌：</p>
@@ -26,7 +26,7 @@
     <p class="time">09:30-10:10</p>
     <section class="talk">
         <h1>Wikidata 寫臺文</h1>
-        <p>Wikidata 是維基下的一個子計畫，嘛是全球尚大的跨語言結構化資料庫。目前已經會用收錄百幾種的語言，其中當然包含有臺語。佇 Wikidata 中，臺語文需要安怎收錄，無仝款的輸入法相衝的時陣又欲安怎處理？擱來佇咧小眾語言擱會當如何用 Wikidata 來進行語言的保存佮紀錄，這改就講予你知。</p>
+        <p>Wikidata 是維基下底的一個子計畫，嘛是全球尚大的迒語言結構化資料庫。目前已經會用得收錄百幾種的語言，其中當然包含有臺語。佇 Wikidata 內底，臺語文需要安怎收錄，無仝款的輸入法相衝突的時陣又閣欲安怎處理？閣來佇咧小眾語言閣會當如何用 Wikidata 來進行語言的保存佮紀錄，這改就講予你知。</p>
     </section>
     <section class="speaker">
         <h2>王文岳</h2>
@@ -37,12 +37,12 @@
 <section class="session">
     <p class="time">10:20-11:00</p>
     <section class="talk">
-        <h1>完全用 kamigo 做出來ê muscle-man line bot</h1>
-        <p>寫 line bot ê工具，逐擺攏是 copy 進前ê project 來走。「卡米狗」 ê老爸做出來這leh ho- 逐家用ê framework - Kamigo，這擺ê line bot 著是全全用這來做ê，tī遮會kā逐家講會安怎用，而且是安怎幫助我用 Ruby 來寫出我家己紀錄練身體ê line bot。</p>
+        <h1>完全用 Kamigo 做出來ê Muscle-man LINE Bot</h1>
+        <p>寫 line bot ê工具，逐擺攏是 copy 進前ê project 來走。「卡米狗」 ê老爸做出來這欲hō͘逐家用ê framework - Kamigo，這擺ê LINE bot 著是全全用這來做--ê，tī遮會kā逐家講會安怎用，而且是安怎幫助我用 Ruby 來寫出我家己紀錄練身體ê line bot。</p>
     </section>
     <section class="speaker">
         <h2>林家煜</h2>
-        <p>NiJia 是一ê tī台中浪流連 26 年ê少年仔，平常時無聊著愛寫「line bot」來耍，著因為按呢煞無小心變成 charbot Taiwan 管理員之一，最近tú變成 LINE API Expert，歡迎逐家來討論抑是beh開講我攏真歡迎！</p>
+        <p>NiJia 是一ê tī台中浪流連 26 年ê少年仔，平常時無聊著愛寫「LINE bot」來耍，著因為按呢煞無小心變成 Chatbot Developers Taiwan 管理員之一，最近tú變成 LINE API Expert，歡迎逐家來討論抑是beh開講我攏真歡迎！</p>
     </section>
 </section>
     
@@ -62,7 +62,7 @@
     <p class="time">13:00-13:40</p>
     <section class="talk">
         <h1>Chhōe台語來Phah</h1>
-        <p>紹介ChhoeTaigi台語辭典網站、app，和手機仔PhahTaigi台語輸入法ê開放專案現況kap未來規劃。</p>
+        <p>紹介 ChhoeTaigi 台語辭典網站、app，和手機仔 PhahTaigi 台語輸入法ê開放專案現況kap未來規劃。</p>
     </section>
     <section class="speaker">
         <h2>Ngô͘ Ka-bêng 吳家銘</h2>
