@@ -45,7 +45,7 @@
     </section>
     <section class="speaker">
         <h2>王文岳</h2>
-        <img src="/img/coscup.png">
+        <img src="/img/speaker_alllen.jpg">
         <p>李梅樹紀念館資訊組召集人，Wikidata Taiwan 社群共同主持人</p>
     </section>
 </section>
