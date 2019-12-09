@@ -27,12 +27,24 @@
             font-size: .8em;
             margin-top: 2em;
             margin-left: 5em;
-            padding: 2em;
-            border-radius: 10px;
+            padding: 20px;
+            padding-left: 150px;
+            border-radius: 20px;
             background-color: rgba($paper, .8);
+            min-height: 150px;
+            position: relative;
 
             h2 {
                 margin-bottom: .5em;
+            }
+
+            img {
+                width: 150px;
+                position: absolute;
+                left: -20px;
+                top: 20px;
+                border-radius: 20px;
+                float: left;
             }
         }
     }

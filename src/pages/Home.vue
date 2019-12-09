@@ -22,6 +22,21 @@
         </section>
 
         <section id="sessions">
+
+<section class="session">
+    <p class="time">09:00-09:30</p>
+    <section class="talk">
+        <h1>入場 / 開場</h1>
+        <p>9:00 開放入場</p>
+        <p>9:20 正式開始</p>
+    </section>
+    <section class="speaker">
+        <h2>COSCUP 工作人員</h2>
+        <img src="/img/coscup.png">
+        <p>（無啥物反應，著是一隻工作人員。）</p>
+    </section>
+</section>
+
 <section class="session">
     <p class="time">09:30-10:10</p>
     <section class="talk">
@@ -30,6 +45,7 @@
     </section>
     <section class="speaker">
         <h2>王文岳</h2>
+        <img src="/img/coscup.png">
         <p>李梅樹紀念館資訊組召集人，Wikidata Taiwan 社群共同主持人</p>
     </section>
 </section>
@@ -42,6 +58,7 @@
     </section>
     <section class="speaker">
         <h2>林家煜</h2>
+        <img src="/img/speaker_nijia.jpeg">
         <p>NiJia 是一ê tī台中浪流連 26 年ê少年仔，平常時無聊著愛寫「LINE bot」來耍，著因為按呢煞無小心變成 Chatbot Developers Taiwan 管理員之一，最近tú變成 LINE API Expert，歡迎逐家來討論抑是beh開講我攏真歡迎！</p>
     </section>
 </section>
@@ -54,6 +71,7 @@
     </section>
     <section class="speaker">
         <h2>Tēⁿ Hiàn Kun</h2>
+        <img src="/img/coscup.png">
         <p>本身是工程師、專長是電腦圖影處理 (computer vision, image processing) kap 一卦機器學習 (machine learning)。有一 ê 蓋久無 teh 顧 ê YouTube 網路台: http://bit.ly/2vFI7je 。上 chia̍p 用 ê OS 是 Lubuntu/Ubuntu (自 6.04 用到今)、上 chia̍p 寫 ê 電腦程序語言是 Phaisiâ (Python) kap Bash。大部分 khangkhòe 朗是倚靠 Open Source ê 軟体 teh 處理。那無 Vim góa ē 死.</p>
     </section>
 </section>
@@ -66,6 +84,7 @@
     </section>
     <section class="speaker">
         <h2>Ngô͘ Ka-bêng 吳家銘</h2>
+        <img src="/img/coscup.png">
         <p>Tâi-gí Sóaⁿ-kang kiam Thêng-sek Choh-sit-lâng. （台語散工兼程式作穡人）</p>
     </section>
 </section>
@@ -78,6 +97,7 @@
     </section>
     <section class="speaker">
         <h2>陳瑞霖</h2>
+        <img src="/img/speaker_dennis.jpg">
         <p>台灣維基協會成員，參與Wikidata台灣和OpenStreetMap台灣社群。逐個月舉行社群聚會，紹介和推廣OpenStreetMap和Wikidata。最近佇增加頭殼內底的台語詞彙，猶未熟似台羅和台語輸入法，是台語的青盲牛。</p>
     </section>
 </section>
@@ -90,11 +110,12 @@
     </section>
     <section class="speaker">
         <h2>Tân Koan-Sîn</h2>
+        <img src="/img/coscup.png">
         <p>I am a long-time open source user. I learned to use open source software before the term open source was coined on a VAX-11/780 running 4.3BSD. For the past couple year, I usually give talks in Taiwanese in COSCUP.</p>
     </section>
 </section>
     
-<section class="session">
+  <section class="session">
     <p class="time">15:30-16:10</p>
     <section class="talk">
         <h1>全全開源ê語音合成──媠聲SuíSiann</h1>
@@ -108,13 +129,26 @@
 
     </section>
     <section class="speaker">
-        <h2>Ì-thuân Kho-ki Iú-hān Kong-si 意傳科技有限公司</h2>
+        <h2>Ì-thuân Kho-ki - Sih Sîng-hông</h2>
+        <img src="/img/speaker_singhong.png">
         <p>意傳科技是台語文專業ê資訊公司，阮ê目標是用科技推sak台語，向望透過阮ê技術kah台語文專長，hōo台語ê影音製作kah生活應用koh khah利便。</p>
-
-<p>現此時ê服務有台語字幕製作、台語口白文稿翻譯，嘛有台語輸入法、語音合成、語料庫等等資訊技術。</p>
-</p>
+        <p>現此時ê服務有台語字幕製作、台語口白文稿翻譯，嘛有台語輸入法、語音合成、語料庫等等資訊技術。</p>
     </section>
-</section>
+  </section>
+
+    <section class="session">
+    <p class="time">16:10-16:40</p>
+    <section class="talk">
+        <h1>Lightning Talk</h1>
+        <p>COSCUP 傳統好戲，五分鐘展工夫！</p>
+
+    </section>
+    <section class="speaker">
+        <h2>可能著是你！</h2>
+        <img src="/img/coscup.png">
+        <p>kah開源有關係ê物件，攏歡迎逐家現場找服務台報名。（名額有限，請盡量用台語講演。）</p>
+    </section>
+  </section>
 </section>
 
         <p>不管你是台語輾轉到會當主持婚宴ê老司機，抑是勉強聽有m̄-koh一句講都bē曉話ê菜鳥仔，攏歡迎來參加這場有夠純koh豐沛ê台語盛會，看咱ê Taiwanese 和 Open Source kap-kap做夥會當變出啥物báng！</p>
