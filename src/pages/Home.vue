@@ -84,7 +84,7 @@
     </section>
     <section class="speaker">
         <h2>Ngô͘ Ka-bêng 吳家銘</h2>
-        <img src="/img/coscup.png">
+        <img src="/img/speaker_hebi.jpg">
         <p>Tâi-gí Sóaⁿ-kang kiam Thêng-sek Choh-sit-lâng. （台語散工兼程式作穡人）</p>
     </section>
 </section>
