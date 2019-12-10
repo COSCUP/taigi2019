@@ -13,6 +13,13 @@
         </section>
 
       </div>
+      <div class="spotlight">
+        <h1 class="font-black">但是我完全bē曉台語/會曉聽bē曉講</h1>
+        <p>無要緊，其實咱工作人員ê台語mā是破破... m閣除了講員一定愛用台語講演以外，其他ê交流是無限語言ê。你mā會當當做遮著是一ê予逐家練台語ê「Taiwanese Corner」，盡量練講台語。</p>
+        <section class="hoagi">
+        <p>完全不會台語，或者只會聽不會講的，也歡迎來玩～ 畢竟工作人員許多台語也是破破的... 而且：除了講者一定要用台語演講之外，其他的交流都不限語言；你也可以把這裡當作「Taiwanese Corner」，盡量練習講台語唷！</p>
+        </section>
+      </div>
       <div class="spotlight" id="programme">
         <h1 class="font-black">開源囡仔，做夥舞！</h1>
         <p>「台語開源研討會」hiah好耍（可能mā會足好聽）ê想法，咱這款ta̍k項攏愛家己舞ê開源人是當然愛做夥來插一kha，這má就來kā好料理款款--咧排上桌！</p>
@@ -71,7 +78,7 @@
     </section>
     <section class="speaker">
         <h2>Tēⁿ Hiàn Kun</h2>
-        <img src="img/coscup.png">
+        <img src="img/speakler_thk.jpg">
         <p>本身是工程師、專長是電腦圖影處理 (computer vision, image processing) kap 一卦機器學習 (machine learning)。有一 ê 蓋久無 teh 顧 ê YouTube 網路台: http://bit.ly/2vFI7je 。上 chia̍p 用 ê OS 是 Lubuntu/Ubuntu (自 6.04 用到今)、上 chia̍p 寫 ê 電腦程序語言是 Phaisiâ (Python) kap Bash。大部分 khangkhòe 朗是倚靠 Open Source ê 軟体 teh 處理。那無 Vim góa ē 死.</p>
     </section>
 </section>
