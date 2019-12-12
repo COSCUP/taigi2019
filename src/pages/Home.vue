@@ -3,7 +3,7 @@
     <Banner/>
     <main class="spotlight-container">
       <div class="spotlight">
-        <h1 class="font-black">世界頭一擺ê台語專場技術研討會，等你做夥來</h1>
+        <h1 class="font-black">世界頭一擺ê台語專場技術研討會，等你做伙來</h1>
         <p>咱全台灣有 70% ê人講台語，結果soah英語ê研討會比台語--ê較chē？你講你會曉講，按呢你kám想過beh按怎用台語解說電腦ê物仔？</p>
         <p>來來來，chia就有一ê機會hō͘你試看māi：COSCUP「來台講」，世界頭一擺ê台語專場技術研討會！</p>
 
@@ -21,8 +21,8 @@
         </section>
       </div>
       <div class="spotlight" id="programme">
-        <h1 class="font-black">開源囡仔，做夥舞！</h1>
-        <p>「台語開源研討會」hiah好耍（可能mā會足好聽）ê想法，咱這款ta̍k項攏愛家己舞ê開源人是當然愛做夥來插一kha，這má就來kā好料理款款--咧排上桌！</p>
+        <h1 class="font-black">開源囡仔，做伙舞！</h1>
+        <p>「台語開源研討會」hiah好耍（可能mā會足好聽）ê想法，咱這款ta̍k項攏愛家己舞ê開源人是當然愛做伙來插一kha，這má就來kā好料理款款--咧排上桌！</p>
         
         <section class="hoagi">
         <p>「台語開源研討會」這麼好玩（可能也會很好聽）的想法，像我們這種老愛自幹的開源人當然都要來參一腳！這就來把好菜端上桌：</p>
@@ -87,12 +87,12 @@
     <p class="time">13:00-13:40</p>
     <section class="talk">
         <h1>Chhōe台語來Phah</h1>
-        <p>紹介 ChhoeTaigi 台語辭典網站、app，和手機仔 PhahTaigi 台語輸入法ê開放專案現況kap未來規劃。</p>
+        <p>紹介 ChhoeTaigi 台語辭典網站、app，和手機仔 PhahTaigi 台語輸入法 這2項學台語上要緊ê ke-si ê開放專案由來、現況kap未來計畫。免真複雜ê技術kap產品設計其實ē-sái做ê代誌kap影響力比你想ê koh較chē，程式碼作穡人按怎來救家己ê台語，koh順sòa兼學台語？這場無beh討論啥物技術，來講有技術能力ê你，ē-sái為家己ê語言文化，鬥陣做啥物較有意義ê代誌。</p>
     </section>
     <section class="speaker">
         <h2>Ngô͘ Ka-bêng 吳家銘</h2>
         <img src="img/speaker_hebi.jpg">
-        <p>Tâi-gí Sóaⁿ-kang kiam Thêng-sek Choh-sit-lâng. （台語散工兼程式作穡人）</p>
+        <p>Tâi-gí Sóaⁿ-kang kiam Thêng-sek-bé Choh-sit-lâng. （台語散工兼程式碼作穡人）</p>
     </section>
 </section>
     
@@ -158,7 +158,7 @@
   </section>
 </section>
 
-        <p>不管你是台語輾轉到會當主持婚宴ê老司機，抑是勉強聽有m̄-koh一句講都bē曉話ê菜鳥仔，攏歡迎來參加這場有夠純koh豐沛ê台語盛會，看咱ê Taiwanese 和 Open Source kap-kap做夥會當變出啥物báng！</p>
+        <p>不管你是台語輾轉到會當主持婚宴ê老司機，抑是勉強聽有m̄-koh一句講都bē曉話ê菜鳥仔，攏歡迎來參加這場有夠純koh豐沛ê台語盛會，看咱ê Taiwanese 和 Open Source kap-kap做伙會當變出啥物báng！</p>
         <section class="hoagi">
         <p>不管你是台語溜到能唱 Rap 的老司機，還是勉強聽懂但講不太出來的菜鳥，都歡迎來參加這場台語盛會，看 Taiwanese 跟 Open Source 跟的混搭能激盪出什麼火花！</p>
         </section>
