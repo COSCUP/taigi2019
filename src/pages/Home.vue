@@ -117,7 +117,7 @@
     </section>
     <section class="speaker">
         <h2>Tân Koan-Sîn</h2>
-        <img src="img/coscup.png">
+        <img src="img/speaker_freedom.jpg">
         <p>I am a long-time open source user. I learned to use open source software before the term open source was coined on a VAX-11/780 running 4.3BSD. For the past couple year, I usually give talks in Taiwanese in COSCUP.</p>
     </section>
 </section>
