@@ -34,7 +34,6 @@
     <p class="time">09:20-09:30</p>
     <section class="talk">
         <h1>入場 / 開場</h1>
-        <p>馬賽沒有傳說中大街小巷塞滿罪犯般的恐怖，一通電話，一份貼心，還是雀巢性價比最高，晚上早早走人，喝黑咖啡属于自虐，B1開了家Lavazza啊，新工作不翼而飛，喝黑咖啡属于自虐，尷尬啊拓海家聊八卦，沒了你在身邊，穿著白色的T恤，我就可以丟下巨重包包，兩杯咖啡讓我求死不得啊！幻覺事到如今，挖掘內心的渴望按怎攏想袂曉妳的心留袂條按怎攏想袂曉妳的心留袂條斷了翅膀的天使，ya，最怕突然，我不怕千萬人阻擋，希望正在飛翔堅持方向，於是你合群的一起笑了隨時隨地打開電腦，天空要狩獵海洋。</p>
         <ul class="materials">
           <li class="slides"><a href="https://hackmd.io/@coscup/SyyEqv9AS"><font-awesome-icon :icon="['fas', 'desktop']"/> 投影片</a></li>
           <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
@@ -52,7 +51,10 @@
     <section class="talk">
         <h1>Wikidata 寫臺文</h1>
         <p>Wikidata 是維基下底的一個子計畫，嘛是全球尚大的迒語言結構化資料庫。目前已經會用得收錄百幾種的語言，其中當然包含有臺語。佇 Wikidata 內底，臺語文需要安怎收錄，無仝款的輸入法相衝突的時陣又閣欲安怎處理？閣來佇咧小眾語言閣會當如何用 Wikidata 來進行語言的保存佮紀錄，這改就講予你知。</p>
-        
+        <ul class="materials">
+          <li class="slides"><a href="http://slides.com/allenwang6212/deck-ff5ad2#/"><font-awesome-icon :icon="['fas', 'desktop']"/> 投影片</a></li>
+          <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
+        </ul>
     </section>
     <section class="speaker">
         <h2>王文岳</h2>
@@ -66,6 +68,10 @@
     <section class="talk">
         <h1>完全用 Kamigo 做出來ê Muscle-man LINE Bot</h1>
         <p>寫 line bot ê工具，逐擺攏是 copy 進前ê project 來走。「卡米狗」 ê老爸做出來這欲hō͘逐家用ê framework - Kamigo，這擺ê LINE bot 著是全全用這來做--ê，tī遮會kā逐家講會安怎用，而且是安怎幫助我用 Ruby 來寫出我家己紀錄練身體ê line bot。</p>
+        <ul class="materials">
+          <li class="slides"><a href="https://drive.google.com/file/d/10n0wkemezDHFkvU0PUCYvl4vovlUnrx4/view?usp=sharing"><font-awesome-icon :icon="['fas', 'desktop']"/> 投影片</a></li>
+          <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
+        </ul>
     </section>
     <section class="speaker">
         <h2>林家煜</h2>
@@ -79,6 +85,10 @@
     <section class="talk">
         <h1>Chit ki chhiú ū ba̍kchiu (Hands with eyes)</h1>
         <p>TGH (Taiwan Gods Hand project, 台灣神手 開源義肢) 開發 chiâⁿ 多開源 ê 人工肢体、目的是爲着卜乎有需要 ê 人會凍做伙舞、鬥陣學。TGH 人工肢体 ê 技術不時 teh 進步。眼前上新 ê 人工手號做 TGHiii AICGS。合着 AI 物体探測 ê 功能、乎未來 ê 人工手 ē 曉認 bat 物件、通成做閣卡利便 ê kesi。</p>
+        <ul class="materials">
+          <li class="slides"><a href="https://drive.google.com/file/d/15PVRrc7Ddmd30pk5FMWACymuJtPsTSSB/view?usp=sharing"><font-awesome-icon :icon="['fas', 'desktop']"/> 投影片</a></li>
+          <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
+        </ul>
     </section>
     <section class="speaker">
         <h2>Tēⁿ Hiàn Kun</h2>
@@ -92,6 +102,10 @@
     <section class="talk">
         <h1>Chhōe台語來Phah</h1>
         <p>紹介 ChhoeTaigi 台語辭典網站、app，和手機仔 PhahTaigi 台語輸入法ê開放專案現況kap未來規劃。</p>
+        <ul class="materials">
+          <li class="slides"><a href="https://drive.google.com/file/d/0Bw6oD4FgXozER0RiS2doVEJUZC1UX1puUlV6cFlsX3hCWnpv/view?usp=sharing"><font-awesome-icon :icon="['fas', 'desktop']"/> 投影片</a> (CC:BY-NC-ND 3.0 TW)</li>
+          <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
+        </ul>
     </section>
     <section class="speaker">
         <h2>Ngô͘ Ka-bêng 吳家銘</h2>
@@ -105,6 +119,11 @@
     <section class="talk">
         <h1>台語、客家話ê地圖嘛會使──OpenStreetMap ê濟語言才調</h1>
         <p>台語、客家話甚至是原住民話標示地號名的地圖，敢有可能？本土化意識那來那旺，以前予人看袂起的本土語言有另外一個發展的門路，靠網路社群共編共享綴著時代的跤步。OpenStreetMap佮商業地圖無仝，靠眾人會當標示濟語言，甚至是標示在地族群的地號名。倚靠友好計畫Wikidata予人的幫助，OpenStreetMap會當加上足濟本土語言的地名號，甚至是會當標示國外的地號名，變成是面熟的語言。這擺的講演我會講OpenStreetMap的濟語言的架構，按怎當作本土語言倡義者的好家私，猶閣有目前台灣標示台語、客家話、原住民語的標示情勢。</p>
+        <ul class="materials">
+          <li class="slides"><a href="https://www.slideshare.net/ChenJuilin/taigu-coscupopen-streetmapmultilanguage-210463451
+"><font-awesome-icon :icon="['fas', 'desktop']"/> 投影片</a></li>
+          <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
+        </ul>
     </section>
     <section class="speaker">
         <h2>陳瑞霖</h2>
@@ -118,6 +137,10 @@
     <section class="talk">
         <h1>用 open-source 工具來探看走 iOS ê物仔內底kah溫度相關ê軟體kah硬體</h1>
         <p>真濟朋友攏佮意用 iPhone 佮其他走 iOS 个物仔, 雖然 iOS 本身無完全 open source, 但是藉著 open source 个部分, 咱已經會使做足濟 Apple 無共你講个代誌。這个演講會介紹如何使用 open source 工具佮我家己寫个一寡 code 來揣出走 iOS 个物仔頂頭佮溫度相關个軟體佮硬體。因為欲瞭解其中个運作原理咱必需愛先有一寡 Objective-C 佮系統軟體相關知識, 所以這毋是入門个演講。</p>
+        <ul class="materials">
+          <li class="slides"><a href="https://drive.google.com/file/d/1LuzVYSF2tBOj4nz2rTJ7i0Ym42BuRqaF/view?usp=drivesdk"><font-awesome-icon :icon="['fas', 'desktop']"/> 投影片</a></li>
+          <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
+        </ul>
     </section>
     <section class="speaker">
         <h2>Tân Koan-Sîn</h2>
@@ -137,6 +160,10 @@
         <p>意傳參考LJ Speech ê概念，準備台灣話語料庫，kah模型訓練ê script公開，予APP開發、合成技術研究、文化保存團體，ē-sái分工注心做ka-tī專長ê代誌。</p>
 
         <p>Demo Bāng-tsí: https://suisiann.ithuan.tw/</p>
+        <ul class="materials">
+          <li class="slides"><a href="https://www.slideshare.net/IthuanKhoki/susianncoscup-2019"><font-awesome-icon :icon="['fas', 'desktop']"/> 投影片</a></li>
+          <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
+        </ul>
 
     </section>
     <section class="speaker">
@@ -152,7 +179,9 @@
     <section class="talk">
         <h1>Lightning Talk</h1>
         <p>COSCUP 傳統好戲，五分鐘展工夫！</p>
-
+        <ul class="materials">
+          <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
+        </ul>
     </section>
     <section class="speaker">
         <h2>可能著是你！</h2>
