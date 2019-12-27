@@ -47,5 +47,30 @@
                 float: left;
             }
         }
+
+        .materials {
+            margin-left: 5em;
+            
+            li {
+                display: inline-block;
+                margin: 0 1em 0 0;
+
+                a {
+                    display: inline-block;
+                    text-decoration: none;
+                    border: 1px solid rgba($tone, .1);
+                    border-radius: 5px;
+                    background-color: rgba($tone, .1);
+                    padding: 2px;
+                    min-width: 6em;
+                    text-align: center;
+
+                    &:hover {
+                        background-color:rgba($tone, 0);
+                        border-color: rgba($tone, 0.5);
+                    }
+                }
+            }
+        }
     }
 }

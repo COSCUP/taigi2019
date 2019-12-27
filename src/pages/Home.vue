@@ -31,11 +31,14 @@
         <section id="sessions">
 
 <section class="session">
-    <p class="time">09:00-09:30</p>
+    <p class="time">09:20-09:30</p>
     <section class="talk">
         <h1>入場 / 開場</h1>
-        <p>9:00 開放入場</p>
-        <p>9:20 正式開始</p>
+        <p>馬賽沒有傳說中大街小巷塞滿罪犯般的恐怖，一通電話，一份貼心，還是雀巢性價比最高，晚上早早走人，喝黑咖啡属于自虐，B1開了家Lavazza啊，新工作不翼而飛，喝黑咖啡属于自虐，尷尬啊拓海家聊八卦，沒了你在身邊，穿著白色的T恤，我就可以丟下巨重包包，兩杯咖啡讓我求死不得啊！幻覺事到如今，挖掘內心的渴望按怎攏想袂曉妳的心留袂條按怎攏想袂曉妳的心留袂條斷了翅膀的天使，ya，最怕突然，我不怕千萬人阻擋，希望正在飛翔堅持方向，於是你合群的一起笑了隨時隨地打開電腦，天空要狩獵海洋。</p>
+        <ul class="materials">
+          <li class="slides"><a href="https://hackmd.io/@coscup/SyyEqv9AS"><font-awesome-icon :icon="['fas', 'desktop']"/> 投影片</a></li>
+          <li class="video"><a href=""><font-awesome-icon :icon="['fab', 'youtube']"/> 影片</a></li>
+        </ul>
     </section>
     <section class="speaker">
         <h2>COSCUP 工作人員</h2>
@@ -49,6 +52,7 @@
     <section class="talk">
         <h1>Wikidata 寫臺文</h1>
         <p>Wikidata 是維基下底的一個子計畫，嘛是全球尚大的迒語言結構化資料庫。目前已經會用得收錄百幾種的語言，其中當然包含有臺語。佇 Wikidata 內底，臺語文需要安怎收錄，無仝款的輸入法相衝突的時陣又閣欲安怎處理？閣來佇咧小眾語言閣會當如何用 Wikidata 來進行語言的保存佮紀錄，這改就講予你知。</p>
+        
     </section>
     <section class="speaker">
         <h2>王文岳</h2>
